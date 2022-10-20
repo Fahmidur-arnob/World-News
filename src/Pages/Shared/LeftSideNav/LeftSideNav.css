@@ -1,0 +1,22 @@
+
+
+.categoryCounter{
+    color: #1B1B1B;
+    margin-bottom: 10px;
+}
+
+.categoryName a{
+    text-decoration: none;
+    color: #1f1f1f;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+@media screen and (max-width:867px){
+    .categoryCounter{
+        color: white;
+    }
+    .categoryName a{
+        color: white;
+    }
+}
