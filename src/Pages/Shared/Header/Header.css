@@ -3,3 +3,19 @@
     color: white;
     font-size: 25px;
 }
+
+.headerLink:hover{
+    color: bisque;
+}
+
+.worldWide{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+.navLinksUser{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
